@@ -3,5 +3,5 @@
 
 🪼 If you wanna contact me, dm me on Discord: @iamdig_
 ## ‼️│Languages/APIs
-<img src="https://github.com/user-attachments/assets/86a32bef-b15c-45e8-b131-dd6f38161979" width="200" height="200" />
-<img src="https://github.com/user-attachments/assets/77732d9d-c6fd-4c47-b3ec-c73e5f334994" width="200" height="200" />
+<img src="https://github.com/user-attachments/assets/86a32bef-b15c-45e8-b131-dd6f38161979" width="100" height="100" />
+<img src="https://github.com/user-attachments/assets/77732d9d-c6fd-4c47-b3ec-c73e5f334994" width="100" height="100" />
