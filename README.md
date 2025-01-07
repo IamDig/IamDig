@@ -1,4 +1,4 @@
-## 🗣️ │ About me
+## ⁉️ │ About me
 👋 Hi! I'm Dig, a 15 y.o. Zelda fan who likes programming and is interested in game development.
  
 🗣️ If you want to get in touch with me, join my Discord server » https://discord.gg/KeXqfhyUM9
