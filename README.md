@@ -3,4 +3,4 @@
 
 ☄️ My main interests are software development, RE and cyber security.
 
-💻 I'm currently learning Java & C++ and I've got some experience with Spigot.
+💻 I'm currently learning Java, C++ & HTML and I've got some experience with Spigot.
