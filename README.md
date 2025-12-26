@@ -1,4 +1,4 @@
 ## ⁉️ │ About me
-15 y.o. learning Java & C++
+🔮 - 15 y.o. learning Java & C++
 
-Worked w/Spigot & Paper API
+🌟 - Worked w/Spigot & Paper API
