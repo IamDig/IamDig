@@ -1,4 +1,4 @@
 ## ⁉️ │ About me
-🔮 - 16 y.o. learning Java & C++
+16, IT & videogames enthusiast
 
-🌟 - Familiar w/Spigot & Paper API
+Based in Lucca, Italy
