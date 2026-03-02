@@ -1,4 +1,4 @@
 ## ⁉️ │ About me
-🔮 | 16, IT & videogames enthusiast
+🔮 - 16, IT & videogames enthusiast
 
-🌍 | Based in Lucca, Italy
+🌍 - Based in Lucca, Italy
