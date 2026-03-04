@@ -1,4 +1,4 @@
-se## ⁉️ │ About me
+## ⁉️ │ About me
 🔮 - 16, learning Java & C++
 
 🌎 - Based in Lucca, Italy
