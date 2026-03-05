@@ -1,5 +1,5 @@
 ## ⁉️ │ About me
-🔮 - 16, learning C++
+🔮 - 16, still learning
 
 🌎 - Based in Lucca (🇮🇹)
 
