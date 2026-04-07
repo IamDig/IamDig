@@ -1,6 +1,4 @@
 ## ⁉️ │ About me
-🔮 - 16, still learning
+🔮 - 16, learning Java & C++
 
 🌎 - Based in Lucca (🇮🇹)
-
-“Did those ideas ever really come to life?”
